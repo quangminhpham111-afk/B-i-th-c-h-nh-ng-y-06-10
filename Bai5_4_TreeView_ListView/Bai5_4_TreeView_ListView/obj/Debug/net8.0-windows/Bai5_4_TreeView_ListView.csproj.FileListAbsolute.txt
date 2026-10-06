@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\bin\Debug\net8.0-windows\Bai5_4_TreeView_ListView.exe
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\bin\Debug\net8.0-windows\Bai5_4_TreeView_ListView.deps.json
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\bin\Debug\net8.0-windows\Bai5_4_TreeView_ListView.runtimeconfig.json
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\bin\Debug\net8.0-windows\Bai5_4_TreeView_ListView.dll
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\bin\Debug\net8.0-windows\Bai5_4_TreeView_ListView.pdb
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\obj\Debug\net8.0-windows\Bai5_4_TreeView_ListView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\obj\Debug\net8.0-windows\Bai5_4_TreeView_ListView.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\obj\Debug\net8.0-windows\Bai5_4_TreeView_ListView.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\obj\Debug\net8.0-windows\Bai5_4_TreeView_ListView.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\obj\Debug\net8.0-windows\Bai5_4_TreeView_ListView.dll
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\obj\Debug\net8.0-windows\refint\Bai5_4_TreeView_ListView.dll
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\obj\Debug\net8.0-windows\Bai5_4_TreeView_ListView.pdb
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\obj\Debug\net8.0-windows\Bai5_4_TreeView_ListView.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\obj\Debug\net8.0-windows\ref\Bai5_4_TreeView_ListView.dll
+C:\Users\Admin\Downloads\Bai5_4_TreeView_ListView\Bai5_4_TreeView_ListView\obj\Debug\net8.0-windows\Bai5_4_T.46DEBA00.Up2Date

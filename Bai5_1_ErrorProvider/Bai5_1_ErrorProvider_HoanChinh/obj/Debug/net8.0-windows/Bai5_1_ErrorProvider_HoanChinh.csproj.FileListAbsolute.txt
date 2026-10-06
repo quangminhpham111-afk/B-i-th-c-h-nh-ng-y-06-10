@@ -1,0 +1,30 @@
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\bin\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.exe
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\bin\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.deps.json
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\bin\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.runtimeconfig.json
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\bin\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.dll
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\bin\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.pdb
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.dll
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\refint\Bai5_1_ErrorProvider_HoanChinh.dll
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.pdb
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\ref\Bai5_1_ErrorProvider_HoanChinh.dll
+C:\Users\Admin\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_E.89F1028E.Up2Date
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\bin\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.exe
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\bin\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.deps.json
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\bin\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.runtimeconfig.json
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\bin\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.dll
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\bin\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.pdb
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.AssemblyInfoInputs.cache
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.AssemblyInfo.cs
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.csproj.CoreCompileInputs.cache
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.dll
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\refint\Bai5_1_ErrorProvider_HoanChinh.dll
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.pdb
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_ErrorProvider_HoanChinh.genruntimeconfig.cache
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\ref\Bai5_1_ErrorProvider_HoanChinh.dll
+C:\Users\Min min\Downloads\Bai5_1_ErrorProvider\Bai5_1_ErrorProvider_HoanChinh\obj\Debug\net8.0-windows\Bai5_1_E.89F1028E.Up2Date

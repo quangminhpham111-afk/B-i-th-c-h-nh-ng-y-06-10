@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\bin\Debug\net8.0-windows\Bai5_3_DataGridView.exe
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\bin\Debug\net8.0-windows\Bai5_3_DataGridView.deps.json
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\bin\Debug\net8.0-windows\Bai5_3_DataGridView.runtimeconfig.json
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\bin\Debug\net8.0-windows\Bai5_3_DataGridView.dll
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\bin\Debug\net8.0-windows\Bai5_3_DataGridView.pdb
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\obj\Debug\net8.0-windows\Bai5_3_DataGridView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\obj\Debug\net8.0-windows\Bai5_3_DataGridView.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\obj\Debug\net8.0-windows\Bai5_3_DataGridView.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\obj\Debug\net8.0-windows\Bai5_3_DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\obj\Debug\net8.0-windows\Bai5_3_DataGridView.dll
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\obj\Debug\net8.0-windows\refint\Bai5_3_DataGridView.dll
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\obj\Debug\net8.0-windows\Bai5_3_DataGridView.pdb
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\obj\Debug\net8.0-windows\Bai5_3_DataGridView.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\obj\Debug\net8.0-windows\ref\Bai5_3_DataGridView.dll
+C:\Users\Admin\Downloads\Bai5_3_DataGridView\Bai5_3_DataGridView\obj\Debug\net8.0-windows\Bai5_3_D.D1480EC4.Up2Date
